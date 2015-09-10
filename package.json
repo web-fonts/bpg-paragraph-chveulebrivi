@@ -1,7 +1,7 @@
 {
   "name": "bpg-paragraph-chveulebrivi",
-  "version": "0.0.1",
-  "description": "BPG ParaGraph Chveulebrivi Web Font",
+  "version": "1.0.0",
+  "description": "BPG ParaGraph Chveulebrivi Web-Font Package",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-paragraph-chveulebrivi"],
   "main": "css/bpg-paragraph-chveulebrivi.css",
   "homepage": "https://github.com/web-fonts/bpg-paragraph-chveulebrivi",
@@ -10,5 +10,14 @@
     "type": "git",
     "url": "https://github.com/web-fonts/bpg-paragraph-chveulebrivi.git"
   },
-  "license": "MIT"
+  "licenses": [
+    {
+      "type": "CC-BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+   }
+  ]
 }
